@@ -29,5 +29,5 @@
 
 <img width="238" alt="Screenshot 2022-02-20 at 00 49 41" src="https://user-images.githubusercontent.com/57996343/154820264-7855b20e-6197-4868-b430-2f6fdbd75a9a.png">
 
-GC-островки
+GC гистограммы
 
