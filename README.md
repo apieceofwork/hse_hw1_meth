@@ -29,9 +29,27 @@
 
 <img width="238" alt="Screenshot 2022-02-20 at 00 49 41" src="https://user-images.githubusercontent.com/57996343/154820264-7855b20e-6197-4868-b430-2f6fdbd75a9a.png">
 
-GC гистограммы
+GC гистограммы - вставить еще
 
-<img width="1259" alt="Screenshot 2022-02-20 at 01 05 00" src="https://user-images.githubusercontent.com/57996343/154820682-0ef5f786-3cf8-42d7-9f2f-4ef1cff7b3d0.png">
+M-bias plot (peredelat)
 
-<img width="1242" alt="Screenshot 2022-02-20 at 01 05 11" src="https://user-images.githubusercontent.com/57996343/154820688-2a21c2bc-2c6e-4e6c-8389-5e611b39a708.png">
+8 cell
+
+<img width="1272" alt="Screenshot 2022-02-20 at 01 13 33" src="https://user-images.githubusercontent.com/57996343/154820827-4cdb5869-b2e9-4e14-b47b-539425de7fbe.png">
+
+<img width="1308" alt="Screenshot 2022-02-20 at 01 13 49" src="https://user-images.githubusercontent.com/57996343/154820831-74758d02-89ca-4c03-8aa7-9a17a1e48bab.png">
+
+Epiblast
+
+<img width="1293" alt="Screenshot 2022-02-20 at 01 12 04" src="https://user-images.githubusercontent.com/57996343/154820794-d6b079c7-ff5a-4296-a202-a095976f4ddc.png">
+
+
+<img width="1217" alt="Screenshot 2022-02-20 at 01 12 22" src="https://user-images.githubusercontent.com/57996343/154820803-2a1bb204-53c0-42b1-9c56-c18503da2ff8.png">
+
+ICM
+
+<img width="1201" alt="Screenshot 2022-02-20 at 01 15 49" src="https://user-images.githubusercontent.com/57996343/154820860-f4899d2e-d342-4488-b003-d4a08ec40a7d.png">
+
+<img width="1273" alt="Screenshot 2022-02-20 at 01 16 12" src="https://user-images.githubusercontent.com/57996343/154820872-6f948fad-be55-4b90-9ef3-6a590f831ce5.png">
+
 
