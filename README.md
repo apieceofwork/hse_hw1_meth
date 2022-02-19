@@ -31,3 +31,7 @@
 
 GC гистограммы
 
+<img width="1259" alt="Screenshot 2022-02-20 at 01 05 00" src="https://user-images.githubusercontent.com/57996343/154820682-0ef5f786-3cf8-42d7-9f2f-4ef1cff7b3d0.png">
+
+<img width="1242" alt="Screenshot 2022-02-20 at 01 05 11" src="https://user-images.githubusercontent.com/57996343/154820688-2a21c2bc-2c6e-4e6c-8389-5e611b39a708.png">
+
