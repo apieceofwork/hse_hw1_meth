@@ -1,8 +1,9 @@
 # hse_hw1_meth
 
-Скриншоты FASTQC
+Отчёты FASTQC
 
-<img width="984" alt="Screenshot 2022-02-20 at 00 30 48" src="https://user-images.githubusercontent.com/57996343/154819776-234652de-35e5-44e7-81c3-465e17e16c02.png">
+<img width="540" alt="Screenshot 2022-02-21 at 12 42 38" src="https://user-images.githubusercontent.com/57996343/154930181-414bfe99-42a5-49fc-b326-035fab5caad7.png">
+
 
 <img width="910" alt="Screenshot 2022-02-20 at 00 33 15" src="https://user-images.githubusercontent.com/57996343/154819817-40e01bc5-567a-4b7e-b501-e3059cedaeb7.png">
 
