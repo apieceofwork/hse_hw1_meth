@@ -1,6 +1,10 @@
 # hse_hw1_meth
 
-Отчёты FASTQC
+Весь код можно найти в файле: (дописать имя файла)
+
+№ 1
+
+Отчёты FASTQC (статистику можно найти ниже)
 
 <img width="540" alt="Screenshot 2022-02-21 at 12 42 38" src="https://user-images.githubusercontent.com/57996343/154930181-414bfe99-42a5-49fc-b326-035fab5caad7.png">
 
