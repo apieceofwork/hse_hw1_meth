@@ -82,8 +82,18 @@
 <img src="https://user-images.githubusercontent.com/57996343/154948235-272cef3e-1121-445c-8efa-1f28f2575fa2.png" width="507" />
 </p>
 
-**e)Гистограммы с распределением цитозинов по хромосоме** (нужно вставить)
+**e)Гистограммы с распределением цитозинов по хромосоме** 
 
+Выводы:
+
+
+![photo_2022-02-21 19 11 06](https://user-images.githubusercontent.com/57996343/154992674-c57b6a78-57cc-481e-976f-acd2fa4863ff.jpeg)
+
+
+![photo_2022-02-21 19 11 22](https://user-images.githubusercontent.com/57996343/154992753-22a2db08-7792-4d31-808b-e18ddd30f676.jpeg)
+
+
+![photo_2022-02-21 19 11 17](https://user-images.githubusercontent.com/57996343/154992535-1056d025-cc8f-415d-901a-fb72de596f56.jpeg)
 
 
 **3) Сделайте выводы, прикрепите код**
