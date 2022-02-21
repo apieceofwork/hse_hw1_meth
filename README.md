@@ -53,9 +53,11 @@
 
 8 cell
 
-<img width="1272" alt="Screenshot 2022-02-20 at 01 13 33" src="https://user-images.githubusercontent.com/57996343/154820827-4cdb5869-b2e9-4e14-b47b-539425de7fbe.png">
+<img width="1000" alt="Screenshot 2022-02-21 at 14 01 58" src="https://user-images.githubusercontent.com/57996343/154942793-bb2225a5-31a5-497d-8ae3-863f5940030e.png">
 
-<img width="1308" alt="Screenshot 2022-02-20 at 01 13 49" src="https://user-images.githubusercontent.com/57996343/154820831-74758d02-89ca-4c03-8aa7-9a17a1e48bab.png">
+<img width="1000" alt="Screenshot 2022-02-21 at 14 03 29" src="https://user-images.githubusercontent.com/57996343/154942935-eef95efc-5241-43f4-8413-9af417a999be.png">
+
+
 
 Epiblast
 
