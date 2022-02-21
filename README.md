@@ -1,6 +1,6 @@
 # Домашнее задание № 1
 
-Весь код можно найти в файле: (дописать имя файла)
+Весь код для всех заданий можно найти в Colab по [ссылке] (https://colab.research.google.com/drive/1tJ0M8X62A8qllO6LZ-jini9n6X6Ptm2t#scrollTo=RQAK_lggxsXi)
 
 ## № 1
 
