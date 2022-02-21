@@ -42,7 +42,7 @@
 
 <img width="312" alt="Screenshot 2022-02-20 at 00 42 01" src="https://user-images.githubusercontent.com/57996343/154820129-57f89f6d-4051-4d86-bb96-1999c1c63984.png">
 
-**b)Таблица с дедупликация всех образцов**
+**b)Таблица с дедупликация всех образцов** (переделать)
 
 <img width="238" alt="Screenshot 2022-02-20 at 00 49 41" src="https://user-images.githubusercontent.com/57996343/154820264-7855b20e-6197-4868-b430-2f6fdbd75a9a.png">
 
