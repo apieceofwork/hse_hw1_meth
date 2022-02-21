@@ -42,13 +42,13 @@
 
 <img width="312" alt="Screenshot 2022-02-20 at 00 42 01" src="https://user-images.githubusercontent.com/57996343/154820129-57f89f6d-4051-4d86-bb96-1999c1c63984.png">
 
-**b)Таблица с дедупликация всех образцов** (переделать)
+**b)Таблица с дедуплицированными ридами** (переделать)
 
 <img width="238" alt="Screenshot 2022-02-20 at 00 49 41" src="https://user-images.githubusercontent.com/57996343/154820264-7855b20e-6197-4868-b430-2f6fdbd75a9a.png">
 
-GC гистограммы - вставить еще
 
-M-bias plot (peredelat)
+
+**d) Скриншоты M-bias plot (peredelat)**
 
 8 cell
 
@@ -68,5 +68,9 @@ ICM
 <img width="1201" alt="Screenshot 2022-02-20 at 01 15 49" src="https://user-images.githubusercontent.com/57996343/154820860-f4899d2e-d342-4488-b003-d4a08ec40a7d.png">
 
 <img width="1273" alt="Screenshot 2022-02-20 at 01 16 12" src="https://user-images.githubusercontent.com/57996343/154820872-6f948fad-be55-4b90-9ef3-6a590f831ce5.png">
+
+**e)Гистограммы с распределением цитозинов по хромосоме
+
+**3) Сделайте выводы, прикрепите код**
 
 
