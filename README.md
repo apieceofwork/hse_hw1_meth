@@ -4,19 +4,26 @@
 
 <img width="540" alt="Screenshot 2022-02-21 at 12 42 38" src="https://user-images.githubusercontent.com/57996343/154930181-414bfe99-42a5-49fc-b326-035fab5caad7.png">
 
+<img width="840" alt="Screenshot 2022-02-21 at 12 49 38" src="https://user-images.githubusercontent.com/57996343/154930897-8ce2f9e6-4090-4223-9ae7-e641f537445d.png">
 
-<img width="910" alt="Screenshot 2022-02-20 at 00 33 15" src="https://user-images.githubusercontent.com/57996343/154819817-40e01bc5-567a-4b7e-b501-e3059cedaeb7.png">
-
-<img width="973" alt="Screenshot 2022-02-20 at 00 33 53" src="https://user-images.githubusercontent.com/57996343/154819836-a20fe2ac-5cae-4419-9508-4b27c9993356.png">
-
-<img width="1018" alt="Screenshot 2022-02-20 at 00 34 44" src="https://user-images.githubusercontent.com/57996343/154819881-3fb3ce61-0758-4e1b-8416-c424330816bc.png">
-
-<img width="950" alt="Screenshot 2022-02-20 at 00 35 54" src="https://user-images.githubusercontent.com/57996343/154819950-f5e26913-d783-4bff-8873-705427bf5f3b.png">
-
-<img width="939" alt="Screenshot 2022-02-20 at 00 36 34" src="https://user-images.githubusercontent.com/57996343/154819974-802e8c58-4834-4dc7-858f-e75711f7bba7.png">
+<img width="841" alt="Screenshot 2022-02-21 at 12 50 01" src="https://user-images.githubusercontent.com/57996343/154930926-cbe33016-4f6b-4910-bd95-d645b44d4459.png">
 
 
-<img width="921" alt="Screenshot 2022-02-20 at 00 36 42" src="https://user-images.githubusercontent.com/57996343/154819980-3af7c2f5-95ba-4860-849b-cc89b6fa97ad.png">
+<img width="843" alt="Screenshot 2022-02-21 at 12 50 15" src="https://user-images.githubusercontent.com/57996343/154930953-38bfc1dc-6c20-4696-b53f-2b99bfa06f97.png">
+
+
+<img width="842" alt="Screenshot 2022-02-21 at 12 50 27" src="https://user-images.githubusercontent.com/57996343/154930963-655f6be5-4112-413c-b0bb-addad84aa361.png">
+
+
+<img width="854" alt="Screenshot 2022-02-21 at 12 50 38" src="https://user-images.githubusercontent.com/57996343/154930972-9e9e7e64-516b-4871-b245-aa9af80b5ef9.png">
+
+
+<img width="850" alt="Screenshot 2022-02-21 at 12 51 25" src="https://user-images.githubusercontent.com/57996343/154930998-db8ca463-9050-4809-87e8-cbe9b6db7fdb.png">
+
+
+
+
+
 
 <img width="970" alt="Screenshot 2022-02-20 at 00 36 49" src="https://user-images.githubusercontent.com/57996343/154819988-61866a46-2d8f-4394-9e00-8822992ba92e.png">
 
