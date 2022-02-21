@@ -21,13 +21,9 @@
 <img width="850" alt="Screenshot 2022-02-21 at 12 51 25" src="https://user-images.githubusercontent.com/57996343/154930998-db8ca463-9050-4809-87e8-cbe9b6db7fdb.png">
 
 
+<img width="855" alt="Screenshot 2022-02-21 at 12 55 30" src="https://user-images.githubusercontent.com/57996343/154931655-55bd692f-cb44-4b77-83e0-39f832736d24.png">
 
-
-
-
-<img width="970" alt="Screenshot 2022-02-20 at 00 36 49" src="https://user-images.githubusercontent.com/57996343/154819988-61866a46-2d8f-4394-9e00-8822992ba92e.png">
-
-<img width="1087" alt="Screenshot 2022-02-20 at 00 38 31" src="https://user-images.githubusercontent.com/57996343/154820018-d089ecda-7b11-471d-8f28-d98697ad231d.png">
+<img width="1002" alt="Screenshot 2022-02-21 at 12 55 54" src="https://user-images.githubusercontent.com/57996343/154931671-fefcd4c9-368d-43f1-abbc-8724f4d40bc1.png">
 
 Статистика
 
