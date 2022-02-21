@@ -4,7 +4,7 @@
 
 ## № 1
 
-** Отчёты FASTQC (статистику можно найти ниже)**
+**Отчёты FASTQC (статистику можно найти ниже)**
 
 <img width="540" alt="Screenshot 2022-02-21 at 12 42 38" src="https://user-images.githubusercontent.com/57996343/154930181-414bfe99-42a5-49fc-b326-035fab5caad7.png">
 
@@ -30,11 +30,13 @@
 
 <img width="700" alt="Screenshot 2022-02-21 at 12 55 54" src="https://user-images.githubusercontent.com/57996343/154931671-fefcd4c9-368d-43f1-abbc-8724f4d40bc1.png">
 
-Статистика
+## №2
+
+#а) Таблица с числом ридов для каждого образца**
 
 <img width="312" alt="Screenshot 2022-02-20 at 00 42 01" src="https://user-images.githubusercontent.com/57996343/154820129-57f89f6d-4051-4d86-bb96-1999c1c63984.png">
 
-Дедупликация
+#b)Таблица с дедупликация всех образцов
 
 <img width="238" alt="Screenshot 2022-02-20 at 00 49 41" src="https://user-images.githubusercontent.com/57996343/154820264-7855b20e-6197-4868-b430-2f6fdbd75a9a.png">
 
