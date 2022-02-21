@@ -12,7 +12,7 @@
 
 **Отчёты FASTQC (статистику можно найти ниже)**
 
-<img width="540" alt="Screenshot 2022-02-21 at 12 42 38" src="https://user-images.githubusercontent.com/57996343/154930181-414bfe99-42a5-49fc-b326-035fab5caad7.png">
+<img width="700" alt="Screenshot 2022-02-21 at 12 42 38" src="https://user-images.githubusercontent.com/57996343/154930181-414bfe99-42a5-49fc-b326-035fab5caad7.png">
 
 <img width="700" alt="Screenshot 2022-02-21 at 12 49 38" src="https://user-images.githubusercontent.com/57996343/154932052-b87541c4-7b94-4625-9e17-5ae3119ffa11.png">
 
