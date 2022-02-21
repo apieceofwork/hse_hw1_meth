@@ -86,6 +86,7 @@
 
 Выводы:
 
+* код для этого задания лежит также в моем [Colab'e](https://colab.research.google.com/drive/1tJ0M8X62A8qllO6LZ-jini9n6X6Ptm2t#scrollTo=RQAK_lggxsXi)
 
 ![photo_2022-02-21 19 11 06](https://user-images.githubusercontent.com/57996343/154992674-c57b6a78-57cc-481e-976f-acd2fa4863ff.jpeg)
 
