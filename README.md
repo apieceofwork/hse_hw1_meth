@@ -106,9 +106,9 @@
 
 % Метирования и покрытия коррелируют со сменой стадий эмбрионального развития. Покрытие, как и метилирование уменьшается на стадии icm, а потом резко увеличивается на стадии epiblast.
 
-![image_cov](https://user-images.githubusercontent.com/57996343/154998007-16c5d746-2be6-4b0d-9767-81d730410526.png)
+<img width="805" alt="Screenshot 2022-02-21 at 21 29 29" src="https://user-images.githubusercontent.com/57996343/155009923-1970d6e8-620f-40c9-9daa-428dc84b79b5.png">
 
-![image_cov2](https://user-images.githubusercontent.com/57996343/154998050-96979792-3768-4b09-9892-811ad2949d0e.png)
+<img width="805" alt="Screenshot 2022-02-21 at 21 29 46" src="https://user-images.githubusercontent.com/57996343/155009934-39fe156e-beae-4d99-b0bf-fe92018f7bbe.png">
 
 
 
