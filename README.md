@@ -45,9 +45,11 @@
 <img width="458" alt="Screenshot 2022-02-21 at 13 19 40" src="https://user-images.githubusercontent.com/57996343/154937122-c609571c-71a1-4c1d-b0d7-36bb6f90bdca.png">
 
 
-**b)Таблица с дедуплицированными ридами** (переделать)
+**b)Таблица с дедуплицированными ридами** 
 
-<img width="238" alt="Screenshot 2022-02-20 at 00 49 41" src="https://user-images.githubusercontent.com/57996343/154820264-7855b20e-6197-4868-b430-2f6fdbd75a9a.png">
+<img width="458" alt="Screenshot 2022-02-21 at 18 38 00" src="https://user-images.githubusercontent.com/57996343/154986785-c3c2bcc7-0d47-4aa3-8a51-b79bd38e8c22.png">
+
+
 
 
 
