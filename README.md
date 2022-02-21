@@ -55,7 +55,7 @@
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/57996343/154942793-bb2225a5-31a5-497d-8ae3-863f5940030e.png" width="500" />
-  <img src="https://user-images.githubusercontent.com/57996343/154942935-eef95efc-5241-43f4-8413-9af417a999be.png" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/57996343/154942935-eef95efc-5241-43f4-8413-9af417a999be.png" width="505" /> 
 </p>
 
 
@@ -63,7 +63,7 @@
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/57996343/154943378-60e3d7c1-041e-4a59-a28f-725baf57b94a.png" width="500" />
-<img src="https://user-images.githubusercontent.com/57996343/154943421-35f57216-988e-4fe6-8403-91c170e86562.png" width="500" />
+<img src="https://user-images.githubusercontent.com/57996343/154943421-35f57216-988e-4fe6-8403-91c170e86562.png" width="507" />
 </p>
 
 **ICM**
