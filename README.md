@@ -40,7 +40,8 @@
 
 **а)Таблица с числом ридов для каждого образца**
 
-<img width="312" alt="Screenshot 2022-02-20 at 00 42 01" src="https://user-images.githubusercontent.com/57996343/154820129-57f89f6d-4051-4d86-bb96-1999c1c63984.png">
+<img width="458" alt="Screenshot 2022-02-21 at 13 19 40" src="https://user-images.githubusercontent.com/57996343/154937122-c609571c-71a1-4c1d-b0d7-36bb6f90bdca.png">
+
 
 **b)Таблица с дедуплицированными ридами** (переделать)
 
