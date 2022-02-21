@@ -90,7 +90,8 @@
 ![photo_2022-02-21 19 11 06](https://user-images.githubusercontent.com/57996343/154992674-c57b6a78-57cc-481e-976f-acd2fa4863ff.jpeg)
 
 
-![photo_2022-02-21 19 11 22](https://user-images.githubusercontent.com/57996343/154992753-22a2db08-7792-4d31-808b-e18ddd30f676.jpeg)
+<img width="600" alt="Screenshot 2022-02-21 at 19 19 07" src="https://user-images.githubusercontent.com/57996343/154992991-99ebd436-7450-4065-afc6-ed07438f2dd1.png">
+
 
 
 ![photo_2022-02-21 19 11 17](https://user-images.githubusercontent.com/57996343/154992535-1056d025-cc8f-415d-901a-fb72de596f56.jpeg)
