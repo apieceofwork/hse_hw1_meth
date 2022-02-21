@@ -53,22 +53,25 @@
 
 **8 cell**
 
-  <img width="1000" alt="Screenshot 2022-02-21 at 14 01 58" src="https://user-images.githubusercontent.com/57996343/154942793-bb2225a5-31a5-497d-8ae3-863f5940030e.png"/> <img width="1000" alt="Screenshot 2022-02-21 at 14 03 29" src="https://user-images.githubusercontent.com/57996343/154942935-eef95efc-5241-43f4-8413-9af417a999be.png"/>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/57996343/154942793-bb2225a5-31a5-497d-8ae3-863f5940030e.png" width="500" />
+  <img src="https://user-images.githubusercontent.com/57996343/154942935-eef95efc-5241-43f4-8413-9af417a999be.png" width="500" /> 
+</p>
 
 
 **Epiblast**
 
-<img width="1000" alt="Screenshot 2022-02-21 at 14 06 07" src="https://user-images.githubusercontent.com/57996343/154943378-60e3d7c1-041e-4a59-a28f-725baf57b94a.png">
-
-<img width="1000" alt="Screenshot 2022-02-21 at 14 06 26" src="https://user-images.githubusercontent.com/57996343/154943421-35f57216-988e-4fe6-8403-91c170e86562.png">
-
+<p float="left">
+<img src="https://user-images.githubusercontent.com/57996343/154943378-60e3d7c1-041e-4a59-a28f-725baf57b94a.png" width="500" />
+<img src="https://user-images.githubusercontent.com/57996343/154943421-35f57216-988e-4fe6-8403-91c170e86562.png" width="500" />
+</p>
 
 **ICM**
 
-<img width="1000" alt="Screenshot 2022-02-21 at 14 14 09" src="https://user-images.githubusercontent.com/57996343/154944594-7615ef2b-5f6f-4947-872b-01504475ab82.png">
-
-<img width="1000" alt="Screenshot 2022-02-21 at 14 14 16" src="https://user-images.githubusercontent.com/57996343/154944612-3658173e-accd-41de-a344-0fa12bdf777f.png">
-
+<p float="left">
+<img src="https://user-images.githubusercontent.com/57996343/154944594-7615ef2b-5f6f-4947-872b-01504475ab82.png" width="500">
+<img src="https://user-images.githubusercontent.com/57996343/154944612-3658173e-accd-41de-a344-0fa12bdf777f.png" width="500">
+</p>
 
 **e)Гистограммы с распределением цитозинов по хромосоме** (нужно вставить)
 
