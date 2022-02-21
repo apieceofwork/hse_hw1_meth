@@ -58,19 +58,20 @@
   <img src="https://user-images.githubusercontent.com/57996343/154942935-eef95efc-5241-43f4-8413-9af417a999be.png" width="505" /> 
 </p>
 
+**ICM**
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/57996343/154947998-3a7a6de0-fd24-4d75-bd50-5fb546352ffc.png" width="500" />
+<img src="https://user-images.githubusercontent.com/57996343/154948026-ce05bb12-541c-4d94-85ec-fa9413143996.png" width="500" />
+</p>
+
+
 
 **Epiblast**
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/57996343/154943378-60e3d7c1-041e-4a59-a28f-725baf57b94a.png" width="500" />
-<img src="https://user-images.githubusercontent.com/57996343/154943421-35f57216-988e-4fe6-8403-91c170e86562.png" width="507" />
-</p>
-
-**ICM**
-
-<p float="left">
-<img src="https://user-images.githubusercontent.com/57996343/154944594-7615ef2b-5f6f-4947-872b-01504475ab82.png" width="500">
-<img src="https://user-images.githubusercontent.com/57996343/154944612-3658173e-accd-41de-a344-0fa12bdf777f.png" width="500">
+<img src="https://user-images.githubusercontent.com/57996343/154948200-eca69bbe-c052-4ce7-a36a-6608d7bc1369.png" width="500" />
+<img src="https://user-images.githubusercontent.com/57996343/154948235-272cef3e-1121-445c-8efa-1f28f2575fa2.png" width="507" />
 </p>
 
 **e)Гистограммы с распределением цитозинов по хромосоме** (нужно вставить)
