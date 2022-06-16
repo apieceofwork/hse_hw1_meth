@@ -4,46 +4,83 @@
 
 ## № 1
 
-Номер кластера | Название вида | name | функция белка
----|---|---|---
-6 | theileri | ORC89945.1 | ypothetical protein | 
-7 | CCAP | KNH08129.1 | ribosomal DEAD box protein | 
-7 | Hart1 | CCW71332.1 | NaN|
-7 | braziliensis | XP_001561513.1 | utative eukaryotic initiation factor 4a | 
-7 | donovani | CBZ31166.1 | ukaryotic initiation factor 4a, putative | 
-7 | grayi | KEG14530.1 | putative eukaryotic initiation factor 4a | 
-7 | hertigi | KAG5512328.1,KAG5512329.1 |,  | 
-7 | martiniquensis | KAG5488146.1,KAG5488147.1 |,  | 
-7 | orientalis | KAG5488297.1,KAG5488298.1 |,  | 
-7 | pyrrhocoris | KPA73781.1,KPA73782.1 |,  | 
-7 | theileri | ORC91171.1 |  putative eukaryotic initiation factor 4a | 
-8 | CCAP | KNH05944.1 | hypothetical protein | 
-8 | Hart1 | CCW71719.1 | NaN|
-8 | braziliensis | XP_001563636.1 | conserved hypothetical protein | 
-8 | donovani | CBZ33012.1 | hypothetical protein, conserved | 
-8 | grayi | KEG06617.1 |  tRNA (guanine-N(1)-)-methyltransferase | 
-8 | hertigi | KAG5508733.1 | hypothetical protein | 
-8 | martiniquensis | KAG5481954.1 | hypothetical protein | 
-8 | orientalis | KAG5482313.1 | hypothetical protein | 
-8 | pyrrhocoris | KPA77805.1,KPA77806.1 |,  | 
-8 | theileri | ORC83604.1 |  hypothetical protein | 
-9 | CCAP | KNH02444.1 |  protease Do-like 10 | 
-9 | Hart1 | CCW70563.1 | NaN|
-9 | braziliensis | XP_001567428.1 |  conserved hypothetical protein | 
-9 | donovani | CBZ36798.1 |  hypothetical protein, conserved | 
-9 | grayi | KEG14749.1 | ammecr1 | 
-9 | hertigi | KAG5496122.1 |  hypothetical protein | 
-9 | martiniquensis | KAG5470459.1 |  hypothetical protein | 
-9 | orientalis | KAG5470033.1 |  hypothetical protein | 
-9 | pyrrhocoris | KPA84565.1 | hypothetical protein | 
-9 | theileri | ORC88436.1 | ammecr1 |
+Номер кластера | Название вида | name | функция белка | Ссылка на источник
+---|---|---|---|---|
+3 | CCAP | KNH04732.1 | cyclin 11 | play multiple roles in cell cycle progression, cytokinesis and apoptosis | https://en.wikipedia.org/wiki/Cyclin
+3 | braziliensis | XP_001564168.1 | putative synaptobrevin-type transport protein | It is proposed to provide specificity for the targeting and fusion of vesicles with the plasma membrane | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC398073/
+3 | donovani | CBZ33511.1 | synaptobrevin-type transport protein, putative | It is proposed to provide specificity for the targeting and fusion of vesicles with the plasma membrane | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC398073/
+3 | grayi | KEG10182.1 | synaptobrevin-type transport protein | It is proposed to provide specificity for the targeting and fusion of vesicles with the plasma membrane | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC398073/
+3 | hertigi | KAG5507014.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+3 | martiniquensis | KAG5480526.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+3 | orientalis | KAG5480855.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+3 | theileri | ORC92492.1 | synaptobrevin-type transport protein | It is proposed to provide specificity for the targeting and fusion of vesicles with the plasma membrane | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC398073/
+8 | CCAP | KNH05944.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+8 | braziliensis | XP_001563636.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
+8 | donovani | CBZ33012.1 | hypothetical protein, conserved | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
+8 | grayi | KEG06617.1 | tRNA (guanine-N(1)-)-methyltransferase | enzyme that catalyzes the chemical reaction | https://en.wikipedia.org/wiki/TRNA_(guanine-N1-)-methyltransferase
+8 | hertigi | KAG5508733.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+8 | martiniquensis | KAG5481954.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+8 | orientalis | KAG5482313.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+8 | theileri | ORC83604.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+9 | CCAP | KNH02444.1 | protease Do-like 10 |  enzyme that catalyzes proteolysis | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2576539/
+9 | braziliensis | XP_001567428.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
+9 | donovani | CBZ36798.1 | hypothetical protein, conserved | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
+9 | grayi | KEG14749.1 | ammecr1 | The contiguous gene deletion syndrome is characterised by Alport syndrome (A), intellectual disability (M), midface hypoplasia (M), and elliptocytosis (E), as well as generalized hypoplasia and cardiac abnormalities. It is caused by a deletion in Xq22.3, comprising several genes including ammecr1 | https://en.wikipedia.org/wiki/AMMECR1
+9 | hertigi | KAG5496122.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+9 | martiniquensis | KAG5470459.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+9 | orientalis | KAG5470033.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+9 | pyrrhocoris | KPA84565.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+9 | theileri | ORC88436.1 | ammecr1 | The contiguous gene deletion syndrome is characterised by Alport syndrome (A), intellectual disability (M), midface hypoplasia (M), and elliptocytosis (E), as well as generalized hypoplasia and cardiac abnormalities. It is caused by a deletion in Xq22.3, comprising several genes including ammecr1 | https://en.wikipedia.org/wiki/AMMECR1
+
+
+Род | Средний gc | Средная длина генома | Среднее кол-во генов 
+--- | --- | --- | --- 
+Perkinsela | 47 | 9477801 | 5252
+Phytomonas | 46,2 | 18129152 | 6451
+Leishmania | 59,102425 | 32780421 | 8195
+Trypanosoma | 26,95 | 25378171 | 10994
+Porcisia | 56,0229 | 34958538 | 7891
+Leptomonas | 56,6 | 30379903 | 10130
 
 
 
 
 
+Trypanosoma
+25378171
+Leishmania
+32780421
+Porcisia
+34958538
+Leptomonas
+30379903
+Perkinsela
+9477801
+Phytomonas
+18129152
 
 
+
+Trypanosoma
+fna_file: CCAP.fna, len: 9477801
+fna_file: Hart1.fna, len: 18129152
+fna_file: braziliensis.fna, len: 32068771
+fna_file: donovani.fna, len: 32444968
+fna_file: grayi.fna, len: 20934132
+fna_file: hertigi.fna, len: 34958538
+fna_file: martiniquensis.fna, len: 32413670
+fna_file: orientalis.fna, len: 34194276
+fna_file: pyrrhocoris.fna, len: 30379903
+fna_file: theileri.fna, len: 29822211
+
+
+
+26,95 Trypanosoma
+59,102425 Leishmania
+56,0229 Porcisia
+56,6 Leptomonas
+47 Perkinsela
+46,2 Phytomonas
 
 
 
