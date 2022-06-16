@@ -4,6 +4,56 @@
 
 ## № 1
 
+Номер кластера | Название вида | name | функция белка
+---|---|---|---
+6 | theileri | ORC89945.1 | ypothetical protein | 
+7 | CCAP | KNH08129.1 | ribosomal DEAD box protein | 
+7 | Hart1 | CCW71332.1 | NaN|
+7 | braziliensis | XP_001561513.1 | utative eukaryotic initiation factor 4a | 
+7 | donovani | CBZ31166.1 | ukaryotic initiation factor 4a, putative | 
+7 | grayi | KEG14530.1 | putative eukaryotic initiation factor 4a | 
+7 | hertigi | KAG5512328.1,KAG5512329.1 |,  | 
+7 | martiniquensis | KAG5488146.1,KAG5488147.1 |,  | 
+7 | orientalis | KAG5488297.1,KAG5488298.1 |,  | 
+7 | pyrrhocoris | KPA73781.1,KPA73782.1 |,  | 
+7 | theileri | ORC91171.1 |  putative eukaryotic initiation factor 4a | 
+8 | CCAP | KNH05944.1 | hypothetical protein | 
+8 | Hart1 | CCW71719.1 | NaN|
+8 | braziliensis | XP_001563636.1 | conserved hypothetical protein | 
+8 | donovani | CBZ33012.1 | hypothetical protein, conserved | 
+8 | grayi | KEG06617.1 |  tRNA (guanine-N(1)-)-methyltransferase | 
+8 | hertigi | KAG5508733.1 | hypothetical protein | 
+8 | martiniquensis | KAG5481954.1 | hypothetical protein | 
+8 | orientalis | KAG5482313.1 | hypothetical protein | 
+8 | pyrrhocoris | KPA77805.1,KPA77806.1 |,  | 
+8 | theileri | ORC83604.1 |  hypothetical protein | 
+9 | CCAP | KNH02444.1 |  protease Do-like 10 | 
+9 | Hart1 | CCW70563.1 | NaN|
+9 | braziliensis | XP_001567428.1 |  conserved hypothetical protein | 
+9 | donovani | CBZ36798.1 |  hypothetical protein, conserved | 
+9 | grayi | KEG14749.1 | ammecr1 | 
+9 | hertigi | KAG5496122.1 |  hypothetical protein | 
+9 | martiniquensis | KAG5470459.1 |  hypothetical protein | 
+9 | orientalis | KAG5470033.1 |  hypothetical protein | 
+9 | pyrrhocoris | KPA84565.1 | hypothetical protein | 
+9 | theileri | ORC88436.1 | ammecr1 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Вопросы:**
 
 **1) Какие особенности можно наблюдать по сравнению с секвенированием ДНК или РНК?** 
