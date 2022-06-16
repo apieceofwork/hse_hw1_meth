@@ -1,8 +1,8 @@
 # Таблица с информацией по кластерам
 ## № 1
 
-Номер кластера | Название вида | name | функция белка | Ссылка на источник
----|---|---|---|---|
+Номер кластера | Название вида | name | функция белка | расшировка | ccылка на источние 
+---|---|---|---|---|---
 3 | CCAP | KNH04732.1 | cyclin 11 | play multiple roles in cell cycle progression, cytokinesis and apoptosis | https://en.wikipedia.org/wiki/Cyclin
 3 | braziliensis | XP_001564168.1 | putative synaptobrevin-type transport protein | It is proposed to provide specificity for the targeting and fusion of vesicles with the plasma membrane | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC398073/
 3 | donovani | CBZ33511.1 | synaptobrevin-type transport protein, putative | It is proposed to provide specificity for the targeting and fusion of vesicles with the plasma membrane | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC398073/
