@@ -106,54 +106,27 @@
 
 
 
-Род | Средний gc | Средная длина генома | Среднее кол-во генов 
---- | --- | --- | --- 
-Perkinsela | 47 | 9477801 | 5252
-Phytomonas | 46,2 | 18129152 | 6451
-Leishmania | 59,102425 | 32780421 | 8195
-Trypanosoma | 26,95 | 25378171 | 10994
-Porcisia | 56,0229 | 34958538 | 7891
-Leptomonas | 56,6 | 30379903 | 10130
+Род | Средний gc | Средная длина генома | Среднее кол-во генов | Среднее число z-dna | zh-score > 500
+--- | --- | --- | ---|---
+Perkinsela | 47 | 9477801 | 5252 | 853862 | 1742
+Phytomonas | 46,2 | 18129152 | 6451 | 2329561 | 8392
+Leishmania | 59,102425 | 32780421 | 8195 | 275853.5 | 7535.75
+Trypanosoma | 26,95 | 25378171 | 10994 | 78461 | 637.5
+Porcisia | 56,0229 | 34958538 | 7891 | 258204 | 4946
+Leptomonas | 56,6 | 30379903 | 10130 | 2995728 | 34665
 
 
 
 
 
-Trypanosoma
-25378171
-Leishmania
-32780421
-Porcisia
-34958538
-Leptomonas
-30379903
-Perkinsela
-9477801
-Phytomonas
-18129152
 
 
 
-Trypanosoma
-fna_file: CCAP.fna, len: 9477801
-fna_file: Hart1.fna, len: 18129152
-fna_file: braziliensis.fna, len: 32068771
-fna_file: donovani.fna, len: 32444968
-fna_file: grayi.fna, len: 20934132
-fna_file: hertigi.fna, len: 34958538
-fna_file: martiniquensis.fna, len: 32413670
-fna_file: orientalis.fna, len: 34194276
-fna_file: pyrrhocoris.fna, len: 30379903
-fna_file: theileri.fna, len: 29822211
 
 
 
-26,95 Trypanosoma
-59,102425 Leishmania
-56,0229 Porcisia
-56,6 Leptomonas
-47 Perkinsela
-46,2 Phytomonas
+
+
 
 
 
