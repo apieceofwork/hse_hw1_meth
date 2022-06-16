@@ -11,6 +11,16 @@
 3 | martiniquensis | KAG5480526.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
 3 | orientalis | KAG5480855.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
 3 | theileri | ORC92492.1 | synaptobrevin-type transport protein | It is proposed to provide specificity for the targeting and fusion of vesicles with the plasma membrane | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC398073/
+4 | CCAP | KNH06491.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+4 | Hart1 | CCW67664.1 | NaN | 
+4 | braziliensis | XP_001564114.1 | conserved hypothetical protein |функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
+4 | donovani | CBZ32277.1 | hypothetical protein, conserved |функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
+4 | grayi | KEG12255.1 | putative cell cycle sequence binding phosphopr... | parasital protein | https://www.wikidata.org/wiki/Q61495232
+4 | hertigi | KAG5510073.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+4 | martiniquensis | KAG5484706.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+4 | orientalis | KAG5485313.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
+4 | pyrrhocoris | KPA76900.1 | putative cell cycle sequence binding phosphopr... | parasital protein | https://www.wikidata.org/wiki/Q61495232
+4 | theileri | ORC88610.1 | putative cell cycle sequence binding phosphopr... | parasital protein | https://www.wikidata.org/wiki/Q61495232
 8 | CCAP | KNH05944.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
 8 | braziliensis | XP_001563636.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 8 | donovani | CBZ33012.1 | hypothetical protein, conserved | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
